@@ -18,3 +18,7 @@ I made the corners of the thumb cluster more rounded. This change is purely base
 
 ![alu-totem3](https://github.com/Dexter-KBD/Alu_totem/blob/6f356fe9f7e9d90f04bb03ba6f25770b65e50e6e/image/alu-totem3.png?raw=true)  
 
+<br><br><br>
+
+![order.png](https://github.com/Dexter-KBD/Alu_totem/blob/d9144853696eabf0a41f8dcbcd213359a8e3799d/image/order.png?raw=true)
+These are the options I selected when placing the order. I printed the bottom file using MJF. If you want something heavier and sturdier, you can also order it in aluminum. However, I chose nylon material to achieve better wireless reception and reduce the risk of shorts.
